@@ -110,8 +110,6 @@ I'm always learning something new and looking for ways to make software that's b
 
 Feel free to check out my projects and reach out at ebeber318@gmail.com if you'd like to collaborate or chat about development!
 
-<img src="https://c.tenor.com/itwJkWLyi1cAAAAd/tenor.gif" width="250">
-
 *"Believe in the me that believes in you!"*
 
 </div>
