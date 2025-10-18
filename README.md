@@ -41,7 +41,7 @@ I'm always learning something new and looking for ways to make software that's b
 
 <div align="center">
 
-### 🌟 Featured Projects
+### Featured Projects
 
 </div>
 
